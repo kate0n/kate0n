@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning how to correctly work with SSR (in particular in Next.js)
 
- 🔭 I’m open to new work
+✔️ I’m open to new work
  
 📫 How to reach me: 
 
