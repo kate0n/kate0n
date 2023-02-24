@@ -8,6 +8,10 @@
 | Email  | mikhailina.ekaterina@gmail.com |
 | Telegram  | @kate0n |
 
+|2   |  |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <!---- - ⚡ Fun fact: ... -->
 
