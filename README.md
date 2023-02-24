@@ -3,15 +3,11 @@
 🔭 I’m currently working with React and with all its ecosystem 
 - 🌱 I’m currently learning how to correctly work with SSR (in particular in Next.js)
 - 📫 How to reach me: 
+
 |   |  |
 | ------------- | ------------- |
-| Email  | mikhailina.ekaterina@gmail.com |
-| Telegram  | @kate0n |
-
-|2   |  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Email  | mikhailina.ekaterina@gmail.com  |
+| Telegram  | @kate0n  |
 
 <!---- - ⚡ Fun fact: ... -->
 
