@@ -1,8 +1,12 @@
 ### Hi, i'm Ekaterina, frontend developer 👋  
 
 🔭 I’m currently working with React and with all its ecosystem 
+
 🌱 I’m currently learning how to correctly work with SSR (in particular in Next.js)
- 📫 How to reach me: 
+
+ 🔭 I’m open to new work
+ 
+📫 How to reach me: 
 
 |   |  |
 | ------------- | ------------- |
