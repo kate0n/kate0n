@@ -9,7 +9,7 @@
 | Сommunication channel  | How to reach me |
 | ------------- | ------------- |
 | Email  | mikhailina.ekaterina@gmail.com  |
-| Telegram  | @kate0n  |
+| Telegram, Twitter  | @kate0n  |
 
 <!---- - ⚡ Fun fact: ... -->
 
