@@ -1,4 +1,7 @@
-### Hi, i'm Ekaterina, frontend developer 👋  
+<h1 align="center">Hi 👋, I'm Ekaterina</h1>
+<h3 align="center">A frontend(React) developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=addtvb&label=Profile%20views&color=ffac00&style=flat" alt="addtvb" /> </p>
 
 🔭 work with React and with all its ecosystem 
 
