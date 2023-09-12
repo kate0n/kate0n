@@ -13,8 +13,9 @@
 
 | Сommunication channel  | How to reach me |
 | ------------- | ------------- |
-| <a href="https://linkedin.com/in/arslan-abayev-addtvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> Email  | mikhailina.ekaterina@gmail.com  |
+| Email  | mikhailina.ekaterina@gmail.com  |
 | Telegram, Twitter  | @kate0n  |
+| <p> <a href="https://linkedin.com/in/arslan-abayev-addtvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <span>LinkedIn</span> </p> | ...  |
 
 <!---- - ⚡ Fun fact: ... -->
 
