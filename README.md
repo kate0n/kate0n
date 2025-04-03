@@ -5,6 +5,7 @@
 
 ✔️ open to new work
 
+к сожалению, тут старые репо, по которым я обучалась на старте, все мои основные коммерчческие работы, которыми я могу "похвастаться" не могут быть размещены тут, но могут быть продемонстрированы мной лично при звонке :)
  <h3 align="left">Connect with me:</h3>
 
 <!---- -<a href="https://medium.com/@abayew-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abayew-arslan" height="30" width="40" /></a> ...-->
