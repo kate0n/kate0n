@@ -15,6 +15,8 @@ I am open to demonstrating my technical approach and code quality, provided that
 - **Zero Risk:** No exposure of user data or sensitive infrastructure details.
 - **Legal Compliance:** Strict adherence to existing NDAs.
 - **Formal Agreement:** Acceptance of a license agreement or a mutual NDA where applicable.
+_______________________________
+
 
 ## 🛠 Tech Stack
 
