@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ekaterina</h1>
-<h3 align="center">A frontend (React) developer</h3>
+<h1 align="center">Hi 👋, I'm Ekaterina Mikhaylina </h1>
+<h3 align="center">A frontend (React) developer with 3+  years of commercial development experience</h3>
 
 🔭 work with React and with all its ecosystem 
 
-✔️ open to new work
+✔️ open to new work and new career opportunities
 
 🥹 P.S. К сожалению, здесь рамещены уже довольно старые репо, по которым я обучалась на старте, все мои основные коммерчческие работы, дейсвительно демонстрирующие горизонт моих навыков  — не могут быть размещены тут, но могут быть продемонстрированы мной лично при звонке :)
  <h3 align="left">Connect with me:</h3>
