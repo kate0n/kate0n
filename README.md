@@ -22,7 +22,7 @@ I am open to demonstrating my technical approach and code quality, provided that
 - **DevOps & Tools:** Git.
 - **Frontend:** React, Next.js, Tailwind CSS.
 
-📫 Connect with me
+##  📫 Connect with me
 <!---- -<a href="https://medium.com/@abayew-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abayew-arslan" height="30" width="40" /></a> ...-->
 
 
