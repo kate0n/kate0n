@@ -21,25 +21,7 @@ I am open to demonstrating my technical approach and code quality, provided that
 - **Languages:** JavaScript (ES2026) / TypeScript.
 - **DevOps & Tools:** Git.
 - **Frontend:** React, Next.js, Tailwind CSS.
-
-##  📫 Connect with me
-<!---- -<a href="https://medium.com/@abayew-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abayew-arslan" height="30" width="40" /></a> ...-->
-
-
-| Сommunication channel  | How to reach me |
-| ------------- | ------------- |
-| Email  | mikhailina.ekaterina@gmail.com  |
-| Telegram  | [@kate0n](https://t.me/kate0n)  |
-| <a href="https://linkedin.com" target="blank"><img align="absmiddle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <span>LinkedIn</span> | [linkedin.com/in/kate0n/](https://www.linkedin.com/in/kate0n/)|
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+ <p align="left">
     <!---- JS  ...-->
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <!---- TS  ...-->
@@ -60,6 +42,16 @@ I am open to demonstrating my technical approach and code quality, provided that
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> ...--> 
+
+##  📫 Connect with me
+<!---- -<a href="https://medium.com/@abayew-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abayew-arslan" height="30" width="40" /></a> ...-->
+
+
+| Сommunication channel  | How to reach me |
+| ------------- | ------------- |
+| Email  | mikhailina.ekaterina@gmail.com  |
+| Telegram  | [@kate0n](https://t.me/kate0n)  |
+| <a href="https://linkedin.com" target="blank"><img align="absmiddle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <span>LinkedIn</span> | [linkedin.com/in/kate0n/](https://www.linkedin.com/in/kate0n/)|
 
 
 <!---- - ⚡ Fun fact: ... -->
