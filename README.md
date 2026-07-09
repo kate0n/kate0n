@@ -6,6 +6,22 @@
 ✔️ open to new work and new career opportunities
 
 🥹 P.S. К сожалению, здесь рамещены уже довольно старые репо, по которым я обучалась на старте, все мои основные коммерчческие работы, дейсвительно демонстрирующие горизонт моих навыков  — не могут быть размещены тут, но могут быть продемонстрированы мной лично при звонке :)
+
+A significant portion of my commercial work is hosted in private repositories to protect intellectual property and user data.
+
+I am open to demonstrating my technical approach and code quality, provided that confidentiality is maintained. Access to specific, non-sensitive code samples or architectural reviews can be arranged under the following conditions:
+
+    Zero Risk: No exposure of user data or sensitive infrastructure details.
+    Legal Compliance: Strict adherence to existing NDAs.
+    Formal Agreement: Acceptance of a license agreement or a mutual NDA where applicable.
+
+
+## 🛠 Tech Stack
+
+- **Languages:** JavaScript (ES2026) / TypeScript.
+- **DevOps & Tools:** Git.
+- **Frontend:** React, Next.js, Tailwind CSS.
+
  <h3 align="left">Connect with me:</h3>
 
 <!---- -<a href="https://medium.com/@abayew-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abayew-arslan" height="30" width="40" /></a> ...-->
@@ -13,7 +29,9 @@
 | Сommunication channel  | How to reach me |
 | ------------- | ------------- |
 | Email  | mikhailina.ekaterina@gmail.com  |
-| Telegram, Twitter  | @kate0n  |
+| Telegram  | @kate0n  |
+| LinkedIn  | @kate0n [linkedin.com/in/kate0n/](https://www.linkedin.com/in/kate0n/) |
+
 | <p> <a href="https://linkedin.com/in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <span>LinkedIn</span> </p> | ...  |
 
 <h3 align="left">Languages and Tools:</h3>
