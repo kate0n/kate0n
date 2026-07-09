@@ -19,6 +19,55 @@ I am open to demonstrating my technical approach and code quality, provided that
 - **Formal Agreement:** Acceptance of a license agreement or a mutual NDA where applicable.
 _______________________________
 
+<!---- ## ✨ Key Projects
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://www.dispersia.io"><b>Dispersia</b></a>
+      </td>
+      <td width="33%" align="center">
+        <a href="http://proprio.ru/"><b>Proprio</b></a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://centerlight.com"><b>Centerlight</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <a href="https://www.dispersia.io">
+          <img src="./assets/dispersia.png" alt="Dispersia" width="100%">
+        </a>
+        <br><br>
+        <b>Founder & Lead Developer</b>
+        <br><br>
+        A sophisticated service for message templating across various messengers, project/task management platforms, and AI-powered copywriting.
+        <br><br>
+        🚀 The most high-performance project in my career.
+      </td>
+      <td width="33%" valign="top" align="center">
+        <a href="http://proprio.ru/">
+          <img src="./assets/proprio.png" alt="Proprio" width="100%">
+        </a>
+        <br><br>
+        <b>Frontend Developer</b>
+        <br><br>
+        A contemporary clothing brand focused on architectural silhouettes and high-quality materials, creating a versatile "smart" wardrobe.
+      </td>
+      <td width="33%" valign="top" align="center">
+        <a href="https://centerlight.com">
+          <img src="./assets/centerlight.png" alt="Centerlight" width="100%">
+        </a>
+        <br><br>
+        <b>Lead Full-stack Developer</b>
+        <br><br>
+        A premium architectural lighting brand platform featuring high-end lighting solutions and interactive tools for luminaire customization.
+        <br><br>
+        ⚡️ The most fault-tolerant and resilient project in the company's portfolio.
+      </td>
+    </tr>
+  </table>
+</div> ...-->
 
 ## 🛠 Tech Stack
 
