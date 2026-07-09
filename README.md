@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekaterina Mikhaylina </h1>
+_______________________________
 <h3 align="center">A frontend (React) developer with 3+  years of commercial development experience</h3>
+_______________________________
 
 🔭 work with React and with all its ecosystem 
 
