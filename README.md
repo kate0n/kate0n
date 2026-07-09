@@ -30,7 +30,7 @@ I am open to demonstrating my technical approach and code quality, provided that
 | ------------- | ------------- |
 | Email  | mikhailina.ekaterina@gmail.com  |
 | Telegram  | @kate0n  |
-|  <p style="display: flex; align-items: center;gap: 8px; "> <a href="https://linkedin.com/in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <span>LinkedIn</span> </p>   | [linkedin.com/in/kate0n/](https://www.linkedin.com/in/kate0n/) |
+|  <p align="center" > <a href="https://linkedin.com/in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <span>LinkedIn</span> </p>   | [linkedin.com/in/kate0n/](https://www.linkedin.com/in/kate0n/) |
 
 
 
