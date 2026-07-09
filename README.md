@@ -34,7 +34,7 @@ I am open to demonstrating my technical approach and code quality, provided that
 | ------------- | ------------- |
 | Email  | mikhailina.ekaterina@gmail.com  |
 | Telegram  | @kate0n  |
-| <a href="https://linkedin.com" target="blank"><img align="absmiddle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <span>LinkedIn</span> | [://linkedin.com](https://www.://linkedin.com) |
+| <a href="https://linkedin.com" target="blank"><img align="absmiddle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <span>LinkedIn</span> | [linkedin.com/in/kate0n/](https://www.linkedin.com/in/kate0n/)|
 
 
 
