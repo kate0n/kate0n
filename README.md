@@ -26,11 +26,13 @@ I am open to demonstrating my technical approach and code quality, provided that
 
 <!---- -<a href="https://medium.com/@abayew-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abayew-arslan" height="30" width="40" /></a> ...-->
 
+
 | Сommunication channel  | How to reach me |
 | ------------- | ------------- |
 | Email  | mikhailina.ekaterina@gmail.com  |
 | Telegram  | @kate0n  |
-| <p > <a href="https://linkedin.com/in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <span valign="middle">LinkedIn</span> </p>   | [linkedin.com/in/kate0n/](https://www.linkedin.com/in/kate0n/)|
+| <a href="https://linkedin.com/in" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-abayev-addtvb" height="30" width="40" /></a> <sub>LinkedIn</sub> | [linkedin.com/in/kate0n/](https://www.linkedin.com/in/kate0n/) |
+
 
 
 
