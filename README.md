@@ -5,6 +5,7 @@
 
 ✔️ open to new work and new career opportunities
 
+## 🔐 Code Privacy & Technical Demonstration
 🥹 P.S. К сожалению, здесь рамещены уже довольно старые репо, по которым я обучалась на старте, все мои основные коммерчческие работы, дейсвительно демонстрирующие горизонт моих навыков  — не могут быть размещены тут, но могут быть продемонстрированы мной лично при звонке :)
 
 A significant portion of my commercial work is hosted in private repositories to protect intellectual property and user data.
