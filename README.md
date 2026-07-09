@@ -7,7 +7,7 @@
 
 ## 🔐 Code Privacy & Technical Demonstration
 🥹 P.S. К сожалению, здесь рамещены уже довольно старые репо, по которым я обучалась на старте, все мои основные коммерчческие работы, дейсвительно демонстрирующие горизонт моих навыков  — не могут быть размещены тут, но могут быть продемонстрированы мной лично при звонке :)
-
+_______________________________
 A significant portion of my commercial work is hosted in private repositories to protect intellectual property and user data.
 
 I am open to demonstrating my technical approach and code quality, provided that confidentiality is maintained. Access to specific, non-sensitive code samples or architectural reviews can be arranged under the following conditions:
