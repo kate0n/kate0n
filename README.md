@@ -12,10 +12,9 @@ A significant portion of my commercial work is hosted in private repositories to
 
 I am open to demonstrating my technical approach and code quality, provided that confidentiality is maintained. Access to specific, non-sensitive code samples or architectural reviews can be arranged under the following conditions:
 
-    Zero Risk: No exposure of user data or sensitive infrastructure details.
-    Legal Compliance: Strict adherence to existing NDAs.
-    Formal Agreement: Acceptance of a license agreement or a mutual NDA where applicable.
-
+- **Zero Risk:** No exposure of user data or sensitive infrastructure details.
+- **Legal Compliance:** Strict adherence to existing NDAs.
+- **Formal Agreement:** Acceptance of a license agreement or a mutual NDA where applicable.
 
 ## 🛠 Tech Stack
 
